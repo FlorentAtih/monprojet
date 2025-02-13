@@ -1,4 +1,4 @@
 j'écris du contenu depuis ma branche
 j'ajoute une seconde ligne
 
-je simule une modification d'un collegue qui a déjà push dans main
+on conserve un mix des deux modifications avec une nouvelle phrase
